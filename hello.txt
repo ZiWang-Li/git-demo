@@ -6,3 +6,4 @@ Hello Git hello Nyan
 Hello Git hello Nyan
 Hello Git hello Nyan
 version 2
+branch hot fix
